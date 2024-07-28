@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "pool.verus.io",
-        "url": "stratum+tcp://pool.verus.io:9998",
+        "url": "stratum+tcp://sg.vipor.net:5045",
 		"timeout": 150,
 		"disabled": 0
 	},
@@ -14,7 +14,7 @@
 		"disabled": 0
 	}],
 	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	"user": "RESN6HCqc3vd5ok2qiM9Xx5T7G7KdF1xKy.rootkiro",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
